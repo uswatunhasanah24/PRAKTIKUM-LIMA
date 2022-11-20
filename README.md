@@ -33,6 +33,7 @@ a[4:5]=12,16
 print('- mengubah data ke-4 sampai terakhir: ', a)
 print(a)
 `
+
 Mengubah elemen ke-4 dengan nilai yang lain sampai dengan elemen terakhir
 
 ![2](https://user-images.githubusercontent.com/115516474/202911338-def6af20-96e2-4d59-9ae1-04a5c6bbbe88.png)
@@ -55,6 +56,7 @@ print('- Menambahkan List B Dengan 3 Nilai : ',B)
 B.extend(A)
 print('-Menggabungkan List B Dengan List A : ', B)
 `
+
 Mengambil 2 bagian dari list pertama lalu jadikan list ke-2. Tambhakan list ke-2 dengan 3 nilai, lalu gabungkan ke-dua list 
 
 ![3](https://user-images.githubusercontent.com/115516474/202911350-9805facc-ba63-4e5b-bb8d-e7cc51e0d1f9.png)
@@ -62,9 +64,12 @@ Mengambil 2 bagian dari list pertama lalu jadikan list ke-2. Tambhakan list ke-2
 
 
 ### TUGAS 
-### BUAT PROGRAM SEDERHANA
+### BUAT PROGRAM SEDERHANA 
 
-Membuat program sederhana dengan menambahkan data kedalam sebuah list dengan menggunakan perulangan, lalu tampilkan pertanyaan untuk menambahkan data contoh (y/t). Apabila memnjawab "t" maka otomatis data akan ditampilkan dan masukan nilai akhir. Nilai diambil dari perhitungan 3 konseponen nilai (Tugas 30%, Uts 35%, Uas 35%) 
+Membuat progam sederhana untuk menambahkan data kedalam sebuah List dengan mengunakan perulangan. lalu tampilkan pertanyaan unuk menambahkan data contoh 
+(y/t). Apabila menjawab "t"(tidak) maka data otomatis akan ditampilan dan masukan nilai akhir, nilai diambil dari perhitungan 3 konseponen nilai 
+(Tugas 30%, Uts 35%, Uas 35%)
+
 
 
 `
@@ -92,10 +97,12 @@ i = 0
 
 for nilai in data:
     i += 1
-print("| {no}  | {nama:12s} | {nim:5s} | {tugas:5d} | {uts:5d} | {uas:5d} | {akhir:6.2f} |".format(no=i, nama=nilai[0], nim=nilai[1], tugas=nilai[2],uts=nilai[3],uas=nilai[4],akhir=nilai[5]))
+print("| {no}  | {nama:12s} | {nim:5s} | {tugas:5d} | {uts:5d} | {uas:5d} |{akhir:6.2f} |
+".format(no=i, nama=nilai[0], nim=nilai[1], tugas=nilai[2],uts=nilai[3],uas=nilai[4],akhir=nilai[5]))
 
 print("==================================================================")
 `
+
 
 ![4](https://user-images.githubusercontent.com/115516474/202911377-ff6b4174-f26d-41aa-825e-6b4819360d64.png)
 
