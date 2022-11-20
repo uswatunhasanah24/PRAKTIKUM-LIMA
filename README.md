@@ -12,9 +12,9 @@ Tampilkan elemen ke-3 lalu ambil nilai elemen ke-2 sampai elemen ke-4 dan elemen
 print('#Akses List')
 r = [8,6,4,9,2]
 print(r)
-print('- Elemen ke-3 : ', r[3])
-print('-Nilai Elemen ke-2 sampai elemen ke-4 : ',r[2:5])
-print('-Elemen terakhir : ', r[-1])
+print(' Elemen ke-3 :', r[3])
+print('-Nilai Elemen ke-2 Sampai Elemen ke-4
+print('-Elemen Terakhir : ', r[-1]
 `
 
 ![1](https://user-images.githubusercontent.com/115516474/202912211-66b85bdc-2b21-45a5-bf63-587498d7e175.png)
