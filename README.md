@@ -36,7 +36,8 @@ print(a)
 
 Mengubah elemen ke-4 dengan nilai yang lain sampai dengan elemen terakhir
 
-![2](https://user-images.githubusercontent.com/115516474/202911338-def6af20-96e2-4d59-9ae1-04a5c6bbbe88.png)
+![1](https://user-images.githubusercontent.com/115516474/202912041-4a5756e4-db5b-44db-bcce-f0c8027824a3.png)
+
 
 
 ### MENAMBAH ELEMEN LIST
