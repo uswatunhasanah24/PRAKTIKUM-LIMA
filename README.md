@@ -6,7 +6,7 @@
 ### MEMBUAT LIST SEBANYAK 5 ELEMEN
 ### AKSES LIST
 
-Tampilkan elemen ke-3 lalu ambil nilai elemen ke-2 sampai elemen ke-4 dan elemen terakhir
+Tampilkan elemen ke-3 lalu ambil nilai elemen ke-2 sampai elemen ke-4 dan elemen terakhi
 
 `
 print('#Akses List')
@@ -17,7 +17,7 @@ print('-Nilai Elemen ke-2 sampai elemen ke-4 : ',r[2:5])
 print('-Elemen terakhir : ', r[-1])
 `
 
-(https://user-images.githubusercontent.com/115516474/202911294-7046d079-ad6a-4f87-a06d-bd108170c169.png)
+![1](https://user-images.githubusercontent.com/115516474/202912211-66b85bdc-2b21-45a5-bf63-587498d7e175.png)
 
 
 
@@ -36,7 +36,7 @@ print(a)
 
 Mengubah elemen ke-4 dengan nilai yang lain sampai dengan elemen terakhir
 
-![1](https://user-images.githubusercontent.com/115516474/202912041-4a5756e4-db5b-44db-bcce-f0c8027824a3.png)
+![1](https://user-images.githubusercontent.com/115516474/202912041-4a5756
 
 
 
